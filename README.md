@@ -1,6 +1,6 @@
 # Curiosity_driven_exploration_by_self_supervised_prediction
 
-Citation
+## Citation
 - @misc{gym-super-mario-bros,
   author = {Christian Kauten},
   howpublished = {GitHub},
