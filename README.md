@@ -1,5 +1,6 @@
 # Curiosity driven exploration by self supervised prediction
-The project proposes the implementation of the ICM in the A3C algorithm in the gym super mario bros environment. 
+The project proposes the implementation of the ICM in the A3C algorithm in the gym super mario bros environment as proposed in the paper "Curiosity-driven Exploration by Self-supervised Prediction
+Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell"
 
 ## Citation
 - @misc{gym-super-mario-bros,
