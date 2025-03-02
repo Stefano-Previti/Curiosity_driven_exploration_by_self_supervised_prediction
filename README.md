@@ -15,7 +15,7 @@ Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell"
 Deepak Pathak, Pulkit Agrawal, Alexei A. Efros, Trevor Darrell
 
 ## Video
-Here are reported two of the best runs,one of them reach the end of the level. 
+Here are reported two of the best runs,one of them reaches the end of the level. 
 They are in two version: v0 version  for "run_2_LEVEL.mp4" and v3 version for "checkpoint_run.mp4".
 
 ## Usage
